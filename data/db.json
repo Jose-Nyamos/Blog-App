@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we learn react and rest apis",
+      "author": "Nyamosi",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "Why do we learn python and rest apis",
+      "author": "Joseph",
+      "id": 1
+    },
+    {
+      "title": "react",
+      "body": "react is good",
+      "author": "Mauti",
+      "id": 2
+    },
+    {
+      "title": "Pyhton React js",
+      "body": "python and react is wow",
+      "author": "Mauti",
+      "id": 3
+    },
+    {
+      "title": "My First react",
+      "body": "My first react app was awesome",
+      "author": "Mauti",
+      "id": 4
+    },
+    {
+      "title": "My First react",
+      "body": "My first react app was awesome",
+      "author": "Mauti",
+      "id": 5
+    },
+    {
+      "title": "My First react",
+      "body": "My first react app was awesome",
+      "author": "Mauti",
+      "id": 6
+    }
+  ]
+}
